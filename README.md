@@ -1,6 +1,6 @@
 ### Olá! eu sou Matheus Magno. ✌🏻
 
-💻 Sou Dsenvolverdor back-end.
+💻 Sou Desenvolverdor back-end.
 
 #### Tecnologias e Ferramentas
 <div style="display: inline_block">
